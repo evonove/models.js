@@ -1,0 +1,26 @@
+{
+  "name": "models.js",
+  "version": "0.0.0",
+  "homepage": "https://github.com/evonove/models.js",
+  "authors": [
+    "Emanuele Palazzetti <emanuele.palazzetti@gmail.com>"
+  ],
+  "description": "A simple implementation of models, inspired by ember-data and js-data",
+  "moduleType": [
+    "amd",
+    "es6",
+    "globals",
+    "node"
+  ],
+  "keywords": [
+    "model"
+  ],
+  "license": "BSD",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
